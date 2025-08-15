@@ -1,0 +1,679 @@
+BookmarkBegin
+BookmarkTitle: ABRACADABRA
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: About the Author
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Contents
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Preface for Students
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Preface for Instructors
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Acknowledgments
+BookmarkLevel: 1
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Vector Spaces
+BookmarkLevel: 1
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: R^n and C^n
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Complex Numbers
+BookmarkLevel: 3
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Lists
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: F^n
+BookmarkLevel: 3
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Digression on Fields
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Exercises 1A
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Definition of Vector Space
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Exercises 1B
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Subspaces
+BookmarkLevel: 2
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Sums of Subspaces
+BookmarkLevel: 3
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Direct Sums
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Exercises 1C
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Finite-Dimensional Vector Spaces
+BookmarkLevel: 1
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Span and Linear Independence
+BookmarkLevel: 2
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Linear Combinations and Span
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Linear Independence
+BookmarkLevel: 3
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Exercises 2A
+BookmarkLevel: 3
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Bases
+BookmarkLevel: 2
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Exercises 2B
+BookmarkLevel: 3
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Dimension
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Exercises 2C
+BookmarkLevel: 3
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Linear Maps
+BookmarkLevel: 1
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Vector Space of Linear Maps
+BookmarkLevel: 2
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Definition and Examples of Linear Maps
+BookmarkLevel: 3
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Algebraic Operations on L(V, W)
+BookmarkLevel: 3
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: Exercises 3A
+BookmarkLevel: 3
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Null Spaces and Ranges
+BookmarkLevel: 2
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Null Space and Injectivity
+BookmarkLevel: 3
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Range and Surjectivity
+BookmarkLevel: 3
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Fundamental Theorem of Linear Maps
+BookmarkLevel: 3
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: Exercises 3B
+BookmarkLevel: 3
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Matrices
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Representing a Linear Map by a Matrix
+BookmarkLevel: 3
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Addition and Scalar Multiplication of Matrices
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Matrix Multiplication
+BookmarkLevel: 3
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Column&#8211;Row Factorization and Rank of a Matrix
+BookmarkLevel: 3
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Exercises 3C
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Invertibility and Isomorphisms
+BookmarkLevel: 2
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Invertible Linear Maps
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Isomorphic Vector Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Linear Maps Thought of as Matrix Multiplication
+BookmarkLevel: 3
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: Change of Basis
+BookmarkLevel: 3
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Exercises 3D
+BookmarkLevel: 3
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Products and Quotients of Vector Spaces
+BookmarkLevel: 2
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Products of Vector Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Quotient Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Exercises 3E
+BookmarkLevel: 3
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Duality
+BookmarkLevel: 2
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: Dual Space and Dual Map
+BookmarkLevel: 3
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: Null Space and Range of Dual of Linear Map
+BookmarkLevel: 3
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: Matrix of Dual of Linear Map
+BookmarkLevel: 3
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Exercises 3F
+BookmarkLevel: 3
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Polynomials
+BookmarkLevel: 1
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: Zeros of Polynomials
+BookmarkLevel: 2
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: Division Algorithm for Polynomials
+BookmarkLevel: 2
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle: Factorization of Polynomials over C
+BookmarkLevel: 2
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Factorization of Polynomials over R
+BookmarkLevel: 2
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Exercises 4
+BookmarkLevel: 2
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle: Eigenvalues and Eigenvectors
+BookmarkLevel: 1
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: Invariant Subspaces
+BookmarkLevel: 2
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: Eigenvalues
+BookmarkLevel: 3
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: Polynomials Applied to Operators
+BookmarkLevel: 3
+BookmarkPageNumber: 151
+BookmarkBegin
+BookmarkTitle: Exercises 5A
+BookmarkLevel: 3
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: The Minimal Polynomial
+BookmarkLevel: 2
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Existence of Eigenvalues on Complex Vector Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Eigenvalues and the Minimal Polynomial
+BookmarkLevel: 3
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: Eigenvalues on Odd-Dimensional Real Vector Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Exercises 5B
+BookmarkLevel: 3
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: Upper-Triangular Matrices
+BookmarkLevel: 2
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Exercises 5C
+BookmarkLevel: 3
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: Diagonalizable Operators
+BookmarkLevel: 2
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: Diagonal Matrices
+BookmarkLevel: 3
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: Conditions for Diagonalizability
+BookmarkLevel: 3
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Gershgorin Disk Theorem
+BookmarkLevel: 3
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Exercises 5D
+BookmarkLevel: 3
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: Commuting Operators
+BookmarkLevel: 2
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Exercises 5E
+BookmarkLevel: 3
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: Inner Product Spaces
+BookmarkLevel: 1
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Inner Products and Norms
+BookmarkLevel: 2
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Inner Products
+BookmarkLevel: 3
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Norms
+BookmarkLevel: 3
+BookmarkPageNumber: 200
+BookmarkBegin
+BookmarkTitle: Exercises 6A
+BookmarkLevel: 3
+BookmarkPageNumber: 205
+BookmarkBegin
+BookmarkTitle: Orthonormal Bases
+BookmarkLevel: 2
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: Orthonormal Lists and the Gram&#8211;Schmidt Procedure
+BookmarkLevel: 3
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: Linear Functionals on Inner Product Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: Exercises 6B
+BookmarkLevel: 3
+BookmarkPageNumber: 221
+BookmarkBegin
+BookmarkTitle: Orthogonal Complements and Minimization Problems
+BookmarkLevel: 2
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: Orthogonal Complements
+BookmarkLevel: 3
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: Minimization Problems
+BookmarkLevel: 3
+BookmarkPageNumber: 231
+BookmarkBegin
+BookmarkTitle: Pseudoinverse
+BookmarkLevel: 3
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: Exercises 6C
+BookmarkLevel: 3
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: Operators on Inner Product Spaces
+BookmarkLevel: 1
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: Self-Adjoint and Normal Operators
+BookmarkLevel: 2
+BookmarkPageNumber: 242
+BookmarkBegin
+BookmarkTitle: Adjoints
+BookmarkLevel: 3
+BookmarkPageNumber: 242
+BookmarkBegin
+BookmarkTitle: Self-Adjoint Operators
+BookmarkLevel: 3
+BookmarkPageNumber: 247
+BookmarkBegin
+BookmarkTitle: Normal Operators
+BookmarkLevel: 3
+BookmarkPageNumber: 249
+BookmarkBegin
+BookmarkTitle: Exercises 7A
+BookmarkLevel: 3
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: Spectral Theorem
+BookmarkLevel: 2
+BookmarkPageNumber: 257
+BookmarkBegin
+BookmarkTitle: Real Spectral Theorem
+BookmarkLevel: 3
+BookmarkPageNumber: 257
+BookmarkBegin
+BookmarkTitle: Complex Spectral Theorem
+BookmarkLevel: 3
+BookmarkPageNumber: 260
+BookmarkBegin
+BookmarkTitle: Exercises 7B
+BookmarkLevel: 3
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: Positive Operators
+BookmarkLevel: 2
+BookmarkPageNumber: 265
+BookmarkBegin
+BookmarkTitle: Exercises 7C
+BookmarkLevel: 3
+BookmarkPageNumber: 269
+BookmarkBegin
+BookmarkTitle: Isometries, Unitary Operators, and Matrix Factorization
+BookmarkLevel: 2
+BookmarkPageNumber: 272
+BookmarkBegin
+BookmarkTitle: Isometries
+BookmarkLevel: 3
+BookmarkPageNumber: 272
+BookmarkBegin
+BookmarkTitle: Unitary Operators
+BookmarkLevel: 3
+BookmarkPageNumber: 274
+BookmarkBegin
+BookmarkTitle: QR Factorization
+BookmarkLevel: 3
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: Cholesky Factorization
+BookmarkLevel: 3
+BookmarkPageNumber: 280
+BookmarkBegin
+BookmarkTitle: Exercises 7D
+BookmarkLevel: 3
+BookmarkPageNumber: 282
+BookmarkBegin
+BookmarkTitle: Singular Value Decomposition
+BookmarkLevel: 2
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: Singular Values
+BookmarkLevel: 3
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: SVD for Linear Maps and for Matrices
+BookmarkLevel: 3
+BookmarkPageNumber: 287
+BookmarkBegin
+BookmarkTitle: Exercises 7E
+BookmarkLevel: 3
+BookmarkPageNumber: 292
+BookmarkBegin
+BookmarkTitle: Consequences of Singular Value Decomposition
+BookmarkLevel: 2
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: Norms of Linear Maps
+BookmarkLevel: 3
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: Approximation by Linear Maps with Lower-Dimensional Range
+BookmarkLevel: 3
+BookmarkPageNumber: 297
+BookmarkBegin
+BookmarkTitle: Polar Decomposition
+BookmarkLevel: 3
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: Operators Applied to Ellipsoids and Parallelepipeds
+BookmarkLevel: 3
+BookmarkPageNumber: 301
+BookmarkBegin
+BookmarkTitle: Volume via Singular Values
+BookmarkLevel: 3
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: Properties of an Operator as Determined by Its Eigenvalues
+BookmarkLevel: 3
+BookmarkPageNumber: 307
+BookmarkBegin
+BookmarkTitle: Exercises 7F
+BookmarkLevel: 3
+BookmarkPageNumber: 308
+BookmarkBegin
+BookmarkTitle: Operators on Complex Vector Spaces
+BookmarkLevel: 1
+BookmarkPageNumber: 311
+BookmarkBegin
+BookmarkTitle: Generalized Eigenvectors and Nilpotent Operators
+BookmarkLevel: 2
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: Null Spaces of Powers of an Operator
+BookmarkLevel: 3
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: Generalized Eigenvectors
+BookmarkLevel: 3
+BookmarkPageNumber: 314
+BookmarkBegin
+BookmarkTitle: Nilpotent Operators
+BookmarkLevel: 3
+BookmarkPageNumber: 317
+BookmarkBegin
+BookmarkTitle: Exercises 8A
+BookmarkLevel: 3
+BookmarkPageNumber: 320
+BookmarkBegin
+BookmarkTitle: Generalized Eigenspace Decomposition
+BookmarkLevel: 2
+BookmarkPageNumber: 322
+BookmarkBegin
+BookmarkTitle: Generalized Eigenspaces
+BookmarkLevel: 3
+BookmarkPageNumber: 322
+BookmarkBegin
+BookmarkTitle: Multiplicity of an Eigenvalue
+BookmarkLevel: 3
+BookmarkPageNumber: 324
+BookmarkBegin
+BookmarkTitle: Block Diagonal Matrices
+BookmarkLevel: 3
+BookmarkPageNumber: 328
+BookmarkBegin
+BookmarkTitle: Exercises 8B
+BookmarkLevel: 3
+BookmarkPageNumber: 330
+BookmarkBegin
+BookmarkTitle: Consequences of Generalized Eigenspace Decomposition
+BookmarkLevel: 2
+BookmarkPageNumber: 333
+BookmarkBegin
+BookmarkTitle: Square Roots of Operators
+BookmarkLevel: 3
+BookmarkPageNumber: 333
+BookmarkBegin
+BookmarkTitle: Jordan Form
+BookmarkLevel: 3
+BookmarkPageNumber: 335
+BookmarkBegin
+BookmarkTitle: Exercises 8C
+BookmarkLevel: 3
+BookmarkPageNumber: 338
+BookmarkBegin
+BookmarkTitle: Trace: A Connection Between Matrices and Operators
+BookmarkLevel: 2
+BookmarkPageNumber: 340
+BookmarkBegin
+BookmarkTitle: Exercises 8D
+BookmarkLevel: 3
+BookmarkPageNumber: 344
+BookmarkBegin
+BookmarkTitle: Multilinear Algebra and Determinants
+BookmarkLevel: 1
+BookmarkPageNumber: 346
+BookmarkBegin
+BookmarkTitle: Bilinear Forms and Quadratic Forms
+BookmarkLevel: 2
+BookmarkPageNumber: 347
+BookmarkBegin
+BookmarkTitle: Bilinear Forms
+BookmarkLevel: 3
+BookmarkPageNumber: 347
+BookmarkBegin
+BookmarkTitle: Symmetric Bilinear Forms
+BookmarkLevel: 3
+BookmarkPageNumber: 351
+BookmarkBegin
+BookmarkTitle: Quadratic Forms
+BookmarkLevel: 3
+BookmarkPageNumber: 355
+BookmarkBegin
+BookmarkTitle: Exercises 9A
+BookmarkLevel: 3
+BookmarkPageNumber: 358
+BookmarkBegin
+BookmarkTitle: Alternating Multilinear Forms
+BookmarkLevel: 2
+BookmarkPageNumber: 360
+BookmarkBegin
+BookmarkTitle: Multilinear Forms
+BookmarkLevel: 3
+BookmarkPageNumber: 360
+BookmarkBegin
+BookmarkTitle: Alternating Multilinear Forms and Permutations
+BookmarkLevel: 3
+BookmarkPageNumber: 362
+BookmarkBegin
+BookmarkTitle: Exercises 9B
+BookmarkLevel: 3
+BookmarkPageNumber: 366
+BookmarkBegin
+BookmarkTitle: Determinants
+BookmarkLevel: 2
+BookmarkPageNumber: 368
+BookmarkBegin
+BookmarkTitle: Defining the Determinant
+BookmarkLevel: 3
+BookmarkPageNumber: 368
+BookmarkBegin
+BookmarkTitle: Properties of Determinants
+BookmarkLevel: 3
+BookmarkPageNumber: 371
+BookmarkBegin
+BookmarkTitle: Exercises 9C
+BookmarkLevel: 3
+BookmarkPageNumber: 381
+BookmarkBegin
+BookmarkTitle: Tensor Products
+BookmarkLevel: 2
+BookmarkPageNumber: 384
+BookmarkBegin
+BookmarkTitle: Tensor Product of Two Vector Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 384
+BookmarkBegin
+BookmarkTitle: Tensor Product of Inner Product Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 390
+BookmarkBegin
+BookmarkTitle: Tensor Product of Multiple Vector Spaces
+BookmarkLevel: 3
+BookmarkPageNumber: 392
+BookmarkBegin
+BookmarkTitle: Exercises 9D
+BookmarkLevel: 3
+BookmarkPageNumber: 394
+BookmarkBegin
+BookmarkTitle: Photo Credits
+BookmarkLevel: 1
+BookmarkPageNumber: 397
+BookmarkBegin
+BookmarkTitle: Symbol Index
+BookmarkLevel: 1
+BookmarkPageNumber: 398
+BookmarkBegin
+BookmarkTitle: Index
+BookmarkLevel: 1
+BookmarkPageNumber: 399
+BookmarkBegin
+BookmarkTitle: Colophon: Notes on Typesetting
+BookmarkLevel: 1
+BookmarkPageNumber: 404PageLabelBegin
+PageLabelNewIndex: 1
+PageLabelStart: 4
+PageLabelNumStyle: LowercaseRomanNumerals
+PageLabelBegin
+PageLabelNewIndex: 15
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals

@@ -1,0 +1,187 @@
+# Metadata location (DO NOT EDIT)
+Begin bookmark line: 24
+End bookmark line: 696
+Begin counter line: 2716
+End counter line: 2724
+
+# Page amount: 404
+
+# Counters
+Counter 0:
+    - Start at absolute page: 1
+    - Start counting from: 4
+    - Style: LowercaseRomanNumerals
+Counter 1:
+    - Start at absolute page: 15
+    - Start counting from: 1
+    - Style: DecimalArabicNumerals
+
+# Bookmarks
+- (iv) ABRACADABRA
+- (v) About the Author
+- (vi) Contents
+- (xii) Preface for Students
+- (xiii) Preface for Instructors
+- (xvii) Acknowledgments
+- (1) Vector Spaces
+    - (2) R^n and C^n
+        - (2) Complex Numbers
+        - (5) Lists
+        - (6) F^n
+        - (10) Digression on Fields
+        - (10) Exercises 1A
+    - (12) Definition of Vector Space
+        - (16) Exercises 1B
+    - (18) Subspaces
+        - (19) Sums of Subspaces
+        - (21) Direct Sums
+        - (24) Exercises 1C
+- (27) Finite-Dimensional Vector Spaces
+    - (28) Span and Linear Independence
+        - (28) Linear Combinations and Span
+        - (31) Linear Independence
+        - (37) Exercises 2A
+    - (39) Bases
+        - (42) Exercises 2B
+    - (44) Dimension
+        - (48) Exercises 2C
+- (51) Linear Maps
+    - (52) Vector Space of Linear Maps
+        - (52) Definition and Examples of Linear Maps
+        - (55) Algebraic Operations on L(V, W)
+        - (57) Exercises 3A
+    - (59) Null Spaces and Ranges
+        - (59) Null Space and Injectivity
+        - (61) Range and Surjectivity
+        - (62) Fundamental Theorem of Linear Maps
+        - (66) Exercises 3B
+    - (69) Matrices
+        - (69) Representing a Linear Map by a Matrix
+        - (71) Addition and Scalar Multiplication of Matrices
+        - (72) Matrix Multiplication
+        - (77) Column&#8211;Row Factorization and Rank of a Matrix
+        - (79) Exercises 3C
+    - (82) Invertibility and Isomorphisms
+        - (82) Invertible Linear Maps
+        - (86) Isomorphic Vector Spaces
+        - (88) Linear Maps Thought of as Matrix Multiplication
+        - (90) Change of Basis
+        - (93) Exercises 3D
+    - (96) Products and Quotients of Vector Spaces
+        - (96) Products of Vector Spaces
+        - (98) Quotient Spaces
+        - (103) Exercises 3E
+    - (105) Duality
+        - (105) Dual Space and Dual Map
+        - (109) Null Space and Range of Dual of Linear Map
+        - (113) Matrix of Dual of Linear Map
+        - (115) Exercises 3F
+- (119) Polynomials
+    - (122) Zeros of Polynomials
+    - (123) Division Algorithm for Polynomials
+    - (124) Factorization of Polynomials over C
+    - (127) Factorization of Polynomials over R
+    - (129) Exercises 4
+- (132) Eigenvalues and Eigenvectors
+    - (133) Invariant Subspaces
+        - (133) Eigenvalues
+        - (137) Polynomials Applied to Operators
+        - (139) Exercises 5A
+    - (143) The Minimal Polynomial
+        - (143) Existence of Eigenvalues on Complex Vector Spaces
+        - (144) Eigenvalues and the Minimal Polynomial
+        - (149) Eigenvalues on Odd-Dimensional Real Vector Spaces
+        - (150) Exercises 5B
+    - (154) Upper-Triangular Matrices
+        - (160) Exercises 5C
+    - (163) Diagonalizable Operators
+        - (163) Diagonal Matrices
+        - (165) Conditions for Diagonalizability
+        - (170) Gershgorin Disk Theorem
+        - (172) Exercises 5D
+    - (175) Commuting Operators
+        - (179) Exercises 5E
+- (181) Inner Product Spaces
+    - (182) Inner Products and Norms
+        - (182) Inner Products
+        - (186) Norms
+        - (191) Exercises 6A
+    - (197) Orthonormal Bases
+        - (197) Orthonormal Lists and the Gram&#8211;Schmidt Procedure
+        - (204) Linear Functionals on Inner Product Spaces
+        - (207) Exercises 6B
+    - (211) Orthogonal Complements and Minimization Problems
+        - (211) Orthogonal Complements
+        - (217) Minimization Problems
+        - (220) Pseudoinverse
+        - (224) Exercises 6C
+- (227) Operators on Inner Product Spaces
+    - (228) Self-Adjoint and Normal Operators
+        - (228) Adjoints
+        - (233) Self-Adjoint Operators
+        - (235) Normal Operators
+        - (239) Exercises 7A
+    - (243) Spectral Theorem
+        - (243) Real Spectral Theorem
+        - (246) Complex Spectral Theorem
+        - (247) Exercises 7B
+    - (251) Positive Operators
+        - (255) Exercises 7C
+    - (258) Isometries, Unitary Operators, and Matrix Factorization
+        - (258) Isometries
+        - (260) Unitary Operators
+        - (263) QR Factorization
+        - (266) Cholesky Factorization
+        - (268) Exercises 7D
+    - (270) Singular Value Decomposition
+        - (270) Singular Values
+        - (273) SVD for Linear Maps and for Matrices
+        - (278) Exercises 7E
+    - (280) Consequences of Singular Value Decomposition
+        - (280) Norms of Linear Maps
+        - (283) Approximation by Linear Maps with Lower-Dimensional Range
+        - (285) Polar Decomposition
+        - (287) Operators Applied to Ellipsoids and Parallelepipeds
+        - (291) Volume via Singular Values
+        - (293) Properties of an Operator as Determined by Its Eigenvalues
+        - (294) Exercises 7F
+- (297) Operators on Complex Vector Spaces
+    - (298) Generalized Eigenvectors and Nilpotent Operators
+        - (298) Null Spaces of Powers of an Operator
+        - (300) Generalized Eigenvectors
+        - (303) Nilpotent Operators
+        - (306) Exercises 8A
+    - (308) Generalized Eigenspace Decomposition
+        - (308) Generalized Eigenspaces
+        - (310) Multiplicity of an Eigenvalue
+        - (314) Block Diagonal Matrices
+        - (316) Exercises 8B
+    - (319) Consequences of Generalized Eigenspace Decomposition
+        - (319) Square Roots of Operators
+        - (321) Jordan Form
+        - (324) Exercises 8C
+    - (326) Trace: A Connection Between Matrices and Operators
+        - (330) Exercises 8D
+- (332) Multilinear Algebra and Determinants
+    - (333) Bilinear Forms and Quadratic Forms
+        - (333) Bilinear Forms
+        - (337) Symmetric Bilinear Forms
+        - (341) Quadratic Forms
+        - (344) Exercises 9A
+    - (346) Alternating Multilinear Forms
+        - (346) Multilinear Forms
+        - (348) Alternating Multilinear Forms and Permutations
+        - (352) Exercises 9B
+    - (354) Determinants
+        - (354) Defining the Determinant
+        - (357) Properties of Determinants
+        - (367) Exercises 9C
+    - (370) Tensor Products
+        - (370) Tensor Product of Two Vector Spaces
+        - (376) Tensor Product of Inner Product Spaces
+        - (378) Tensor Product of Multiple Vector Spaces
+        - (380) Exercises 9D
+- (383) Photo Credits
+- (384) Symbol Index
+- (385) Index
+- (390) Colophon: Notes on Typesetting
