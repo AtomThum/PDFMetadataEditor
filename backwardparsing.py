@@ -11,11 +11,14 @@ with open("output.md", "r") as md_file:
 
     # The first 6 lines is always fixed
     metadata_locations: list[str] = metadata_list[1:5]
+    parsed_metadata_locations: list = []
+    for metadata_location in metadata_locations:
+        try:
+            parsed_metadata_locations.append(int(metadata_location.split(": ")[1]))
+        except ValueError:
+            parsed_metadata_locations.append(None)
 
-    start_bookmark, end_bookmark, start_counter, end_counter = [
-        int(metadata_location.split(": ")[1])
-        for metadata_location in metadata_locations
-    ]
+    start_bookmark, end_bookmark, start_counter, end_counter = parsed_metadata_locations
     page_amount: int = int(metadata_list[6].split(": ")[1])
 
     counter_header_location = metadata_list.index("# Counters")
@@ -79,10 +82,8 @@ with open("output.md", "r") as md_file:
         bookmark_level: int = (
             sum(1 for _ in itr.takewhile(str.isspace, bookmark_line)) // 4 + 1
         )
-        bookmark_line = bookmark_line.lstrip()[3:]
-        _ = bookmark_line.index(")")
-        bookmark_page = page_labels[bookmark_line[:_]] + 1
-        bookmark_title = bookmark_line[_ + 1 :].lstrip()
+        bookmark_line = bookmark_line.lstrip()[2:]
+        bookmark_title, bookmark_page = bookmark_line.rsplit(" ", 1)
 
         pdf_bookmark_metadata += [
             "BookmarkBegin",

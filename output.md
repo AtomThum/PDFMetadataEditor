@@ -1,187 +1,290 @@
-# Metadata location (DO NOT EDIT)
-Begin bookmark line: 24
-End bookmark line: 696
-Begin counter line: 2716
-End counter line: 2724
-
-# Page amount: 404
+# Pages amount: 430
 
 # Counters
+
 Counter 0:
-    - Start at absolute page: 1
-    - Start counting from: 4
-    - Style: LowercaseRomanNumerals
+- Start at absolute page: 1
+- Start counting from: 1
+- Style: NoNumber
+
 Counter 1:
-    - Start at absolute page: 15
-    - Start counting from: 1
-    - Style: DecimalArabicNumerals
+- Start at absolute page: 2
+- Start counting from: 1
+- Style: LowercaseRomanNumerals
+
+Counter 2:
+- Start at absolute page: 20
+- Start counting from: 1
+- Style: DecimalArabicNumerals
 
 # Bookmarks
-- (iv) ABRACADABRA
-- (v) About the Author
-- (vi) Contents
-- (xii) Preface for Students
-- (xiii) Preface for Instructors
-- (xvii) Acknowledgments
-- (1) Vector Spaces
-    - (2) R^n and C^n
-        - (2) Complex Numbers
-        - (5) Lists
-        - (6) F^n
-        - (10) Digression on Fields
-        - (10) Exercises 1A
-    - (12) Definition of Vector Space
-        - (16) Exercises 1B
-    - (18) Subspaces
-        - (19) Sums of Subspaces
-        - (21) Direct Sums
-        - (24) Exercises 1C
-- (27) Finite-Dimensional Vector Spaces
-    - (28) Span and Linear Independence
-        - (28) Linear Combinations and Span
-        - (31) Linear Independence
-        - (37) Exercises 2A
-    - (39) Bases
-        - (42) Exercises 2B
-    - (44) Dimension
-        - (48) Exercises 2C
-- (51) Linear Maps
-    - (52) Vector Space of Linear Maps
-        - (52) Definition and Examples of Linear Maps
-        - (55) Algebraic Operations on L(V, W)
-        - (57) Exercises 3A
-    - (59) Null Spaces and Ranges
-        - (59) Null Space and Injectivity
-        - (61) Range and Surjectivity
-        - (62) Fundamental Theorem of Linear Maps
-        - (66) Exercises 3B
-    - (69) Matrices
-        - (69) Representing a Linear Map by a Matrix
-        - (71) Addition and Scalar Multiplication of Matrices
-        - (72) Matrix Multiplication
-        - (77) Column&#8211;Row Factorization and Rank of a Matrix
-        - (79) Exercises 3C
-    - (82) Invertibility and Isomorphisms
-        - (82) Invertible Linear Maps
-        - (86) Isomorphic Vector Spaces
-        - (88) Linear Maps Thought of as Matrix Multiplication
-        - (90) Change of Basis
-        - (93) Exercises 3D
-    - (96) Products and Quotients of Vector Spaces
-        - (96) Products of Vector Spaces
-        - (98) Quotient Spaces
-        - (103) Exercises 3E
-    - (105) Duality
-        - (105) Dual Space and Dual Map
-        - (109) Null Space and Range of Dual of Linear Map
-        - (113) Matrix of Dual of Linear Map
-        - (115) Exercises 3F
-- (119) Polynomials
-    - (122) Zeros of Polynomials
-    - (123) Division Algorithm for Polynomials
-    - (124) Factorization of Polynomials over C
-    - (127) Factorization of Polynomials over R
-    - (129) Exercises 4
-- (132) Eigenvalues and Eigenvectors
-    - (133) Invariant Subspaces
-        - (133) Eigenvalues
-        - (137) Polynomials Applied to Operators
-        - (139) Exercises 5A
-    - (143) The Minimal Polynomial
-        - (143) Existence of Eigenvalues on Complex Vector Spaces
-        - (144) Eigenvalues and the Minimal Polynomial
-        - (149) Eigenvalues on Odd-Dimensional Real Vector Spaces
-        - (150) Exercises 5B
-    - (154) Upper-Triangular Matrices
-        - (160) Exercises 5C
-    - (163) Diagonalizable Operators
-        - (163) Diagonal Matrices
-        - (165) Conditions for Diagonalizability
-        - (170) Gershgorin Disk Theorem
-        - (172) Exercises 5D
-    - (175) Commuting Operators
-        - (179) Exercises 5E
-- (181) Inner Product Spaces
-    - (182) Inner Products and Norms
-        - (182) Inner Products
-        - (186) Norms
-        - (191) Exercises 6A
-    - (197) Orthonormal Bases
-        - (197) Orthonormal Lists and the Gram&#8211;Schmidt Procedure
-        - (204) Linear Functionals on Inner Product Spaces
-        - (207) Exercises 6B
-    - (211) Orthogonal Complements and Minimization Problems
-        - (211) Orthogonal Complements
-        - (217) Minimization Problems
-        - (220) Pseudoinverse
-        - (224) Exercises 6C
-- (227) Operators on Inner Product Spaces
-    - (228) Self-Adjoint and Normal Operators
-        - (228) Adjoints
-        - (233) Self-Adjoint Operators
-        - (235) Normal Operators
-        - (239) Exercises 7A
-    - (243) Spectral Theorem
-        - (243) Real Spectral Theorem
-        - (246) Complex Spectral Theorem
-        - (247) Exercises 7B
-    - (251) Positive Operators
-        - (255) Exercises 7C
-    - (258) Isometries, Unitary Operators, and Matrix Factorization
-        - (258) Isometries
-        - (260) Unitary Operators
-        - (263) QR Factorization
-        - (266) Cholesky Factorization
-        - (268) Exercises 7D
-    - (270) Singular Value Decomposition
-        - (270) Singular Values
-        - (273) SVD for Linear Maps and for Matrices
-        - (278) Exercises 7E
-    - (280) Consequences of Singular Value Decomposition
-        - (280) Norms of Linear Maps
-        - (283) Approximation by Linear Maps with Lower-Dimensional Range
-        - (285) Polar Decomposition
-        - (287) Operators Applied to Ellipsoids and Parallelepipeds
-        - (291) Volume via Singular Values
-        - (293) Properties of an Operator as Determined by Its Eigenvalues
-        - (294) Exercises 7F
-- (297) Operators on Complex Vector Spaces
-    - (298) Generalized Eigenvectors and Nilpotent Operators
-        - (298) Null Spaces of Powers of an Operator
-        - (300) Generalized Eigenvectors
-        - (303) Nilpotent Operators
-        - (306) Exercises 8A
-    - (308) Generalized Eigenspace Decomposition
-        - (308) Generalized Eigenspaces
-        - (310) Multiplicity of an Eigenvalue
-        - (314) Block Diagonal Matrices
-        - (316) Exercises 8B
-    - (319) Consequences of Generalized Eigenspace Decomposition
-        - (319) Square Roots of Operators
-        - (321) Jordan Form
-        - (324) Exercises 8C
-    - (326) Trace: A Connection Between Matrices and Operators
-        - (330) Exercises 8D
-- (332) Multilinear Algebra and Determinants
-    - (333) Bilinear Forms and Quadratic Forms
-        - (333) Bilinear Forms
-        - (337) Symmetric Bilinear Forms
-        - (341) Quadratic Forms
-        - (344) Exercises 9A
-    - (346) Alternating Multilinear Forms
-        - (346) Multilinear Forms
-        - (348) Alternating Multilinear Forms and Permutations
-        - (352) Exercises 9B
-    - (354) Determinants
-        - (354) Defining the Determinant
-        - (357) Properties of Determinants
-        - (367) Exercises 9C
-    - (370) Tensor Products
-        - (370) Tensor Product of Two Vector Spaces
-        - (376) Tensor Product of Inner Product Spaces
-        - (378) Tensor Product of Multiple Vector Spaces
-        - (380) Exercises 9D
-- (383) Photo Credits
-- (384) Symbol Index
-- (385) Index
-- (390) Colophon: Notes on Typesetting
+
+- Cover None
+- An Introduction to Manifolds (Second edition) iii
+- Copyright iv
+    - 9781441973993 iv
+- Preface to the Second Edition vii
+- Preface to the First Edition ix
+- Contents xi
+- A Brief Introduction (missing) 411
+- Chapter 1: Euclidean Spaces 3
+    - &#167;1 Smooth Functions on a Euclidean Space 3
+        - 1.1 C&#8734;  Versus Analytic Functions 4
+        - 1.2 Taylor&#8217;s Theorem with Remainder 5
+        - Problems 8
+    - &#167;2 Tangent Vectors in \mathbb{R}^n as Derivations 10
+        - 2.1 The Directional Derivative 10
+        - 2.2 Germs of Functions 11
+        - 2.3 Derivations at a Point 13
+        - 2.4 Vector Fields 14
+        - 2.5 Vector Fields as Derivations 16
+        - Problems 17
+    - &#167;3 The Exterior Algebra of Multicovectors 18
+        - 3.1 Dual Space 19
+        - 3.2 Permutations 20
+        - 3.3 Multilinear Functions 22
+        - 3.4 The Permutation Action on Multilinear Functions 23
+        - 3.5 The Symmetrizing and Alternating Operators 24
+        - 3.6 The Tensor Product 25
+        - 3.7 The Wedge Product 26
+        - 3.8 Anticommutativity of the Wedge Product 27
+        - 3.9 Associativity of the Wedge Product 28
+        - 3.10 A Basis for k-Covectors 31
+        - Problems 32
+    - &#167;4 Differential Forms on \mathbb{R}^n 34
+        - 4.1 Differential 1-Forms and the Differential of a Function 34
+        - 4.2 Differential k-Forms 36
+        - 4.3 Differential Forms as Multilinear Functions on Vector Fields 37
+        - 4.4 The Exterior Derivative 38
+        - 4.5 Closed Forms and Exact Forms 40
+        - 4.6 Applications to Vector Calculus 41
+        - 4.7 Convention on Subscripts and Superscripts 44
+        - Problems 44
+- Chapter 2: Manifolds 47
+    - &#167;5 Manifolds 48
+        - 5.1 Topological Manifolds 48
+        - 5.2 Compatible Charts 49
+        - 5.3 Smooth Manifolds 52
+        - 5.4 Examples of Smooth Manifolds 53
+        - Problems 57
+    - &#167;6 Smooth Maps on a Manifold 59
+        - 6.1 Smooth Functions on a Manifold 59
+        - 6.2 Smooth Maps Between Manifolds 61
+        - 6.3 Diffeomorphisms 63
+        - 6.4 Smoothness in Terms of Components 63
+        - 6.5 Examples of Smooth Maps 65
+        - 6.6 Partial Derivatives 67
+        - 6.7 The Inverse Function Theorem 68
+        - Problems 70
+    - &#167;7 Quotients 71
+        - 7.1 The Quotient Topology 71
+        - 7.2 Continuity of a Map on a Quotient 72
+        - 7.3 Identification of a Subset to a Point 73
+        - 7.4 A Necessary Condition for a Hausdorff Quotient 73
+        - 7.5 Open Equivalence Relations 74
+        - 7.6 Real Projective Space 76
+        - 7.7 The Standard C&#8734; Atlas on a Real Projective Space 79
+        - Problems 81
+- Chapter 3: The Tangent Space 85
+    - &#167;8 The Tangent Space 86
+        - 8.1 The Tangent Space at a Point 86
+        - 8.2 The Differential of a Map 87
+        - 8.3 The Chain Rule 88
+        - 8.4 Bases for the Tangent Space at a Point 89
+        - 8.5 A Local Expression for the Differential 91
+        - 8.6 Curves in a Manifold 92
+        - 8.7 Computing the Differential Using Curves 95
+        - 8.8 Immersions and Submersions 96
+        - 8.9 Rank, and Critical and Regular Points 96
+        - Problems 98
+    - &#167;9 Submanifolds 100
+        - 9.1 Submanifolds 100
+        - 9.2 Level Sets of a Function 103
+        - 9.3 The Regular Level Set Theorem 105
+        - 9.4 Examples of Regular Submanifolds 106
+        - Problems 108
+    - &#167;10 Categories and Functors 110
+        - 10.1 Categories 110
+        - 10.2 Functors 111
+        - 10.3 The Dual Functor and the Multicovector Functor 113
+        - Problems 114
+    - &#167;11 The Rank of a Smooth Map 115
+        - 11.1 Constant Rank Theorem 115
+        - 11.2 The Immersion and Submersion Theorems 118
+        - 11.3 Images of Smooth Maps 120
+        - 11.4 Smooth Maps into a Submanifold 124
+        - 11.5 The Tangent Plane to a Surface in \mathbb{R}^3 125
+        - Problems 127
+    - &#167;12 The Tangent Bundle 129
+        - 12.1 The Topology of the Tangent Bundle 129
+        - 12.2 The Manifold Structure on the Tangent Bundle 132
+        - 12.3 Vector Bundles 133
+        - 12.4 Smooth Sections 136
+        - 12.5 Smooth Frames 137
+        - Problems 139
+    - &#167;13 Bump Functions and Partitions of Unity 140
+        - 13.1 C&#8734; Bump Functions 140
+        - 13.2 Partitions of Unity 145
+        - 13.3 Existence of a Partition of Unity 146
+        - Problems 147
+    - &#167;14 Vector Fields 149
+        - 14.1 Smoothness of a Vector Field 149
+        - 14.2 Integral Curves 152
+        - 14.3 Local Flows 154
+        - 14.4 The Lie Bracket 157
+        - 14.5 The Pushforward of Vector Fields 159
+        - 14.6 Related Vector Fields 159
+        - Problems 161
+- Chapter 4: Lie Groups and Lie Algebras 163
+    - &#167;15 Lie Groups 164
+        - 15.1 Examples of Lie Groups 164
+        - 15.2 Lie Subgroups 167
+        - 15.3 The Matrix Exponential 169
+        - 15.4 The Trace of a Matrix 171
+        - 15.5 The Differential of det at the Identity 174
+        - Problems 174
+    - &#167;16 Lie Algebras 178
+        - 16.1 Tangent Space at the Identity of a Lie Group 178
+        - 16.2 Left-Invariant Vector Fields on a Lie Group 180
+        - 16.3 The Lie Algebra of a Lie Group 182
+        - 16.4 The Lie Bracket on gl(n,\mathbb{R}) 183
+        - 16.5 The Pushforward of Left-Invariant Vector Fields 184
+        - 16.6 The Differential as a Lie Algebra Homomorphism 185
+        - Problems 187
+- Chapter 5: Differential Forms 189
+    - &#167;17 Differential 1-Forms 190
+        - 17.1 The Differential of a Function 191
+        - 17.2 Local Expression for a Differential 1-Form 191
+        - 17.3 The Cotangent Bundle 192
+        - 17.4 Characterization of C&#8734;  1-Forms 193
+        - 17.5 Pullback of 1-Forms 195
+        - 17.6 Restriction of 1-Forms to an Immersed Submanifold 197
+        - Problems 199
+    - &#167;18 Differential k-Forms 200
+        - 18.1 Differential Forms 200
+        - 18.2 Local Expression for a k-Form 202
+        - 18.3 The Bundle Point of View 203
+        - 18.4 Smooth k-Forms 203
+        - 18.5 Pullback of k-Forms 204
+        - 18.6 The Wedge Product 205
+        - 18.7 Differential Forms on a Circle 206
+        - 18.8 Invariant Forms on a Lie Group 207
+        - Problems 208
+    - &#167;19 The Exterior Derivative 210
+        - 19.1 Exterior Derivative on a Coordinate Chart 211
+        - 19.2 Local Operators 211
+        - 19.3 Existence of an Exterior Derivative on a Manifold 212
+        - 19.4 Uniqueness of the Exterior Derivative 213
+        - 19.5 Exterior Differentiation Under a Pullback 214
+        - 19.6 Restriction of k-Forms to a Submanifold 216
+        - 19.7 A Nowhere-Vanishing 1-Form on the Circle 216
+        - Problems 218
+    - &#167;20 The Lie Derivative and Interior Multiplication 221
+        - 20.1 Families of Vector Fields and Differential Forms 221
+        - 20.2 The Lie Derivative of a Vector Field 223
+        - 20.3 The Lie Derivative of a Differential Form 226
+        - 20.4 Interior Multiplication 227
+        - 20.5 Properties of the Lie Derivative 229
+        - 20.6 Global Formulas for the Lie and Exterior Derivatives 232
+        - Problems 233
+- Chapter 6: Integration 235
+    - &#167;21 Orientations 236
+        - 21.1 Orientations of a Vector Space 236
+        - 21.2 Orientations and n-Covectors 238
+        - 21.3 Orientations on a Manifold 240
+        - 21.4 Orientations and Differential Forms 242
+        - 21.5 Orientations and Atlases 245
+        - Problems 246
+    - &#167;22 Manifolds with Boundary 248
+        - 22.1 Smooth Invariance of Domain in \mathbb{R}^n 248
+        - 22.2 Manifolds with Boundary 250
+        - 22.3 The Boundary of a Manifold with Boundary 253
+        - 22.4 Tangent Vectors, Differential Forms, and Orientations 253
+        - 22.5 Outward-Pointing Vector Fields 254
+        - 22.6 Boundary Orientation 255
+        - Problems 256
+    - &#167;23 Integration on Manifolds 260
+        - 23.1 The Riemann Integral of a Function on \mathbb{R}^n 260
+        - 23.2 Integrability Conditions 262
+        - 23.3 The Integral of an n-Form on \mathbb{R}^n 263
+        - 23.4 Integral of a Differential Form over a Manifold 265
+        - 23.5 Stokes&#8217;s Theorem 269
+        - 23.6 Line Integrals and Green&#8217;s Theorem 271
+        - Problems 272
+- Chapter 7: De Rham Theory 273
+    - &#167;24 De Rham Cohomology 274
+        - 24.1 De Rham Cohomology 274
+        - 24.2 Examples of de Rham Cohomology 276
+        - 24.3 Diffeomorphism Invariance 278
+        - 24.4 The Ring Structure on de Rham Cohomology 279
+        - Problems 280
+    - &#167;25 The Long Exact Sequence in Cohomology 281
+        - 25.1 Exact Sequences 281
+        - 25.2 Cohomology of Cochain Complexes 283
+        - 25.3 The Connecting Homomorphism 284
+        - 25.4 The Zig-Zag Lemma 285
+        - Problems 287
+    - &#167;26 The Mayer&#8211;Vietoris Sequence 288
+        - 26.1 The Mayer&#8211;Vietoris Sequence 288
+        - 26.2 The Cohomology of the Circle 292
+        - 26.3 The Euler Characteristic 295
+        - Problems 295
+    - &#167;27 Homotopy Invariance 296
+        - 27.1 Smooth Homotopy 296
+        - 27.2 Homotopy Type 297
+        - 27.3 Deformation Retractions 299
+        - 27.4 The Homotopy Axiom for de Rham Cohomology 300
+        - Problems 301
+    - &#167;28 Computation of de Rham Cohomology 302
+        - 28.1 Cohomology Vector Space of a Torus 302
+        - 28.2 The Cohomology Ring of a Torus 303
+        - 28.3 The Cohomology of a Surface of Genus g 306
+        - Problems 310
+    - &#167;29 Proof of Homotopy Invariance 311
+        - 29.1 Reduction to Two Sections 311
+        - 29.2 Cochain Homotopies 312
+        - 29.3 Differential Forms on M&#215;\mathbb{R} 312
+        - 29.4 A Cochain Homotopy Between i*_0 and i*_1 314
+        - 29.5 Verification of Cochain Homotopy 315
+        - Problems 316
+- Appendices 317
+    - &#167;A Point-Set Topology 317
+        - A.1 Topological Spaces 317
+        - A.2 Subspace Topology 320
+        - A.3 Bases 321
+        - A.4 First and Second Countability 323
+        - A.5 Separation Axioms 324
+        - A.6 Product Topology 326
+        - A.7 Continuity 327
+        - A.8 Compactness 329
+        - A.9 Boundedness in \mathbb{R}^n 332
+        - A.10 Connectedness 332
+        - A.11 Connected Components 333
+        - A.12 Closure 334
+        - A.13 Convergence 336
+        - Problems 337
+    - &#167;B The Inverse Function Theorem on \mathbb{R}^n and Related Results 339
+        - B.1 The Inverse Function Theorem 339
+        - B.2 The Implicit Function Theorem 339
+        - B.3 Constant Rank Theorem 343
+        - Problems 344
+    - &#167;C Existence of a Partition of Unity in General 346
+    - &#167;D Linear Algebra 349
+        - D.1 Quotient Vector Spaces 349
+        - D.2 Linear Transformations 350
+        - D.3 Direct Product and Direct Sum 351
+        - Problems 352
+    - &#167;E Quaternions and the Symplectic Group 353
+        - E.1 Representation of Linear Maps by Matrices 354
+        - E.2 Quaternionic Conjugation 355
+        - E.3 Quaternionic Inner Product 356
+        - E.4 Representations of Quaternions by Complex Numbers 356
+        - E.5 Quaternionic Inner Product in Terms of Complex Components 357
+        - E.6 \mathbb{H}-Linearity in Terms of Complex Numbers 357
+        - E.7 Symplectic Group 358
+        - Problems 359
+- Solutions to Selected Exercises Within the Text 361
+- Hints and Solutions to Selected End-of-Section Problems 367
+- List of Notations 387
+- References 395
+- Index 397
